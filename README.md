@@ -17,6 +17,14 @@ This project is an E-commerce website developed  trough academic studies context
 - [ ] Document any missing or incomplete sections.
 
 Feel free to contribute by addressing the above tasks or suggesting improvements. Your feedback and contributions are highly appreciated!
+## Project Screenshots 
+
+![Hero-section](Screenshots-of-website/screenshot 1.png)
+![Product-section](Screenshots-of-website/screenshot 2.png)
+![SignIN-section](Screenshots-of-website/screenshot 3.png)
+![AbousUS-section](Screenshots-of-website/screenshot 4.png)
+![Cart-section](Screenshots-of-website/screenshot 5.png)
+![CheckOut-section](Screenshots-of-website/screenshot 6.png)
 
 ## Technologies Used
 
